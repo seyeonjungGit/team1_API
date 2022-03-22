@@ -60,7 +60,7 @@ else:
 
 # load checkpoint file
 _CKPT_PATH = os.path.abspath(os.path.dirname(__file__))
-checkpoint = torch.load(os.path.join(_CKPT_PATH, "basev3_model_ms_1.ckpt.16"), map_location=device)
+checkpoint = torch.load(os.path.join(_CKPT_PATH, "model.ckpt.19"), map_location=device)
 
 # 모델 초기화
 model_name = "monologg/koelectra-base-v3-discriminator"
