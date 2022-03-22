@@ -8,6 +8,10 @@
     requirements.txt
 ```
 
+pre_trained된 koelectra모델은 다음 경로에서 다운로드 가능합니다.
+https://drive.google.com/drive/u/0/folders/1g7w50TyDS1psv2crh6kImDkHPUInAfRd
+
+
 2. 터미널에서 가상환경을 만들고(python=3.8) 해당 경로로 이동 후, 아래의 명령어를 통해 패키지를 설치합니다. 
 ```
 pip install -r requirements.txt
