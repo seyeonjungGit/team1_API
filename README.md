@@ -8,8 +8,8 @@
     requirements.txt
 ```
 
-pre_trained된 koelectra모델은 다음 경로에서 다운로드 가능합니다.
-https://drive.google.com/drive/u/0/folders/1g7w50TyDS1psv2crh6kImDkHPUInAfRd
+- pre_trained된 koelectra모델은 다음 경로에서 다운로드 가능합니다.
+    https://drive.google.com/drive/u/0/folders/1g7w50TyDS1psv2crh6kImDkHPUInAfRd
 
 <br/>
 <br/>
