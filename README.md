@@ -32,7 +32,7 @@ uvicorn help_check_copy:app --reload
 ```
 http://127.0.0.1:8000/docs
 ```
-<br/>
+
 ![gif1](https://user-images.githubusercontent.com/98604716/159411018-e95f9657-1113-4357-8866-d758257d1244.gif)
 ![gif2](https://user-images.githubusercontent.com/98604716/159411026-2070b0ed-9160-4eb6-ab03-4f7895f9980a.gif)
 ![gif3](https://user-images.githubusercontent.com/98604716/159411028-5273549c-261b-4cf3-bd61-d32536501dad.gif)
