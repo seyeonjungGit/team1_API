@@ -35,11 +35,14 @@ http://127.0.0.1:8000/docs
 
 
 - 주소에 docs를 추가하여 실행할 수 있습니다.(페이지가 뜰때까지 몇초정도 시간이 소요될 수 있습니다. 새로고침을 눌러주세요)
+
 ![gif1](https://user-images.githubusercontent.com/98604716/159411018-e95f9657-1113-4357-8866-d758257d1244.gif)
 
 - POST와 Classifier 중앙에 위치한 '/'모양을 누르고 try it out 버튼을 클릭합니다.
+
 ![gif2](https://user-images.githubusercontent.com/98604716/159411026-2070b0ed-9160-4eb6-ab03-4f7895f9980a.gif)
 
 - 'string'부분에 두개의 문장을 각각 적은 뒤 'Exercute'버튼을 누르면 문장 유사도를 확인할 수 있습니다.
+
 ![gif3](https://user-images.githubusercontent.com/98604716/159411028-5273549c-261b-4cf3-bd61-d32536501dad.gif)
 
