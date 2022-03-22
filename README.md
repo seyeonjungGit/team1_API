@@ -2,7 +2,7 @@
 
 1. 하나의 경로에 다음 4가지 파일을 둡니다.
 ```
-    basev3_model_ms_1.ckpt.16
+    model.ckpt.19
     main.py
     main_modules.py
     requirements.txt
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 3. 아래의 명령어로 실행합니다.
 ```
-uvicorn help_check_copy:app --reload
+uvicorn main:app --reload
 ```
 <br/>
 <br/>
